@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall_advert" />
+        <module name="mall_cart" />
+        <module name="mall_goods" />
+        <module name="mall_pay" />
+        <module name="mall_user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
